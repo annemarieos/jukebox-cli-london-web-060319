@@ -32,3 +32,4 @@ HELP
 end
 
 def list(songs)
+  songs.for
