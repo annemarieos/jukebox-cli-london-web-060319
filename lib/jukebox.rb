@@ -18,3 +18,5 @@ songs = [
 # users_name = gets.chomp
 
 # puts say_hello(users_name)  
+
+def help_method()
