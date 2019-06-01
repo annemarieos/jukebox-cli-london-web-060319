@@ -19,4 +19,5 @@ songs = [
 
 # puts say_hello(users_name)  
 
-def help_method()
+def help
+  
