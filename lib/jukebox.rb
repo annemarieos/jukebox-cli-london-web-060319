@@ -38,4 +38,4 @@ def list(songs)
 end
 
 def play 
-  
+  puts "please enter song name or number:"
