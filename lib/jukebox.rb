@@ -53,7 +53,7 @@ def exit_jukebox
   puts "Goodbye"
 end 
 
-def return
+def run(songs)
   input = ""
   while input
     puts "Please enter a command:"
