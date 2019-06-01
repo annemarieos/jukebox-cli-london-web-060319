@@ -30,3 +30,5 @@ HELP
 
   puts help
 end
+
+def play(song)
