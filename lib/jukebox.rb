@@ -31,4 +31,4 @@ HELP
   puts help
 end
 
-def play(song)
+def list(songs)
