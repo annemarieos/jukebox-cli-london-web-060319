@@ -39,3 +39,5 @@ end
 
 def play 
   puts "please enter song name or number:"
+  song_to_be_played = gets.chomp
+  
