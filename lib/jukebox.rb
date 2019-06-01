@@ -37,7 +37,7 @@ def list(songs)
   end
 end
 
-def play 
+def play(songs) 
   puts "please enter song name or number:"
   song_to_be_played = gets.chomp
     if (1..9).to_a.include?(song_to_play.to_i)
